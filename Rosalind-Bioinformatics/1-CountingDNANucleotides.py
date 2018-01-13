@@ -13,6 +13,9 @@ This should be relatively easy with Python.
 DNAFILE = '1-DNANucleotides.txt'
 
 def countDNA():
+    '''
+    Function to count the DNA letters in a string.
+    '''
     # Open the file and read the DNA strings into a list.
     dnaString = open(DNAFILE,'r').read().splitlines() # splitlines() removes the newline character from the file.
 
