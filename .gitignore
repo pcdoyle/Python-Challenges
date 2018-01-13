@@ -98,5 +98,8 @@ ENV/
 # mypy
 .mypy_cache/
 
+# Visual Studio Code Folder
+.vscode
+
 # Don't upload
 *.nc.py
