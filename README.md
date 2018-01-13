@@ -1,5 +1,5 @@
 # What these are:
-There are all programs I created while getting the hang of programming again while larning Python 3.
+These are all programs I have created as part of various programming challenges around the internet. I am just doing this to get the hang of programming again. All projects are done in Python 3.
 
 # Directoy Structure:
 * **ROOT DIRECTORY:** For small single file projects I made for fun or while doing other challenges.

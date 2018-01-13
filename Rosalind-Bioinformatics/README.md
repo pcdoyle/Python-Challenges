@@ -2,5 +2,4 @@
 You can attempt these projects at http://rosalind.info/problems/locations/.
 
 # Notes:
-## Filename.py:
-* Notes.
+* No project has been uploaded for this yet.
